@@ -1,7 +1,3 @@
-Sure! Here’s a more detailed and visually appealing README template for your Game-Project-MidTerm-2025 repository. You can copy and customize this as needed:
-
----
-
 # 🎮 Game-Project-MidTerm-2025
 
 A game project developed for the University of London BSc Computer Science program, Midterm 2025.
